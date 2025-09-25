@@ -1,0 +1,1 @@
+This project explores and analyzes IMDB movie datasets to discover patterns, trends, and insights about movies, genres, ratings, and revenues. The analysis helps understand factors influencing movie success and audience preferences.
